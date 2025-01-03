@@ -33,9 +33,9 @@ This speech recognition system is designed to process audio files, extract meani
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/alihassanml/Speech-Recognition-System.git
-cd Speech-Recognition-System
-pip install -r requirements.txt
+git clone https://github.com/Amanrawat17/SPEECH_RECOGNITION_SYSTEM.git
+cd SPEECH_RECOGNITION_SYSTEM
+
 ```
 
 ---
@@ -87,17 +87,4 @@ The model is built using a stack of LSTMs with dropout layers to prevent overfit
 - **LibriSpeech**: A large-scale corpus of English speech data.
 - Download and preprocess the dataset using your preferred method.
 
----
 
-## Results
-Add your training accuracy, evaluation metrics, or sample predictions here.
-
----
-
-## Contributing
-Contributions are welcome! Please fork the repository, create a branch, and submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License.
